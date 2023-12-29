@@ -8,4 +8,4 @@ Puedes acceder al curso con el siguiente enlace:
 
 Por otro lado en el enlace de abajo puede acceder al canal de **YouTube** de *freeCodeCamp Español*:
 
-[freeCodeCamp Español](https://www.youtube.com/@freecodecampespanol)
+ - [freeCodeCamp Español](https://www.youtube.com/@freecodecampespanol)
